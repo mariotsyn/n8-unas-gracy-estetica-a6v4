@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Uñas Gracy Estética",
+    "tagline": "Tu belleza, nuestro arte en cada detalle.",
+    "description": "Somos especialistas en realzar tu belleza natural con técnicas de manicura avanzada y estética integral. Ubicados en el corazón de Dénia, transformamos tu estilo con profesionalidad y mimo.",
+    "phone": "631 93 89 39",
+    "address": "Pg. del Saladar, 45b, 03700 Dénia, Alicante, España",
+    "email": "hola@unasgracyestetica.es",
+    "rating": 4.5,
+    "reviewCount": 31,
+    "hours": ["Lun-Vie: 9:00-20:00", "Sáb: 10:00-14:00"]
+  },
+  "theme": {
+    "primary": "#D4AF37",
+    "secondary": "#1A1A1A",
+    "accent": "#C04000",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Eleva tu estilo con la manicura que mereces",
+    "subheadline": "Descubre un espacio de belleza en Dénia donde la excelencia, el detalle y la tendencia se encuentran para ti.",
+    "cta1": { "text": "Reserva tu cita ahora", "href": "#contact" },
+    "cta2": { "text": "Ver nuestros servicios", "href": "#services" },
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "services": [
+    { "icon": "💅", "title": "Manicura Premium", "description": "Diseños exclusivos y duraderos que definen tu personalidad. Utilizamos los mejores productos para cuidar la salud de tus uñas." },
+    { "icon": "✨", "title": "Estética Facial", "description": "Tratamientos rejuvenecedores diseñados para aportar luminosidad y vitalidad a tu rostro. Resultados visibles desde la primera sesión." },
+    { "icon": "👁️", "title": "Diseño de Mirada", "description": "Potenciamos tu expresión natural con técnicas de lifting y diseño de cejas a medida. Una mirada irresistible cada mañana." },
+    { "icon": "👣", "title": "Pedicura Spa", "description": "Relajación total para tus pies combinada con un acabado estético impecable. Caminarás con confianza y bienestar absoluto." }
+  ],
+  "about": {
+    "title": "Expertas en tu bienestar y estilo",
+    "text": "En Uñas Gracy Estética, creemos que la belleza es una forma de expresión personal. Fundado con el objetivo de ofrecer un servicio de alta gama en Dénia, nuestro equipo combina pasión y formación continua para ofrecerte las últimas tendencias del sector.\n\nNuestra prioridad eres tú. Nos enfocamos en crear un ambiente relajante donde puedas desconectar mientras cuidamos de tu imagen con los estándares más exigentes de calidad y precisión.",
+    "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Manicura profesional y elegante" },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Ambiente del salón de estética" },
+    { "url": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=1200&q=80", "alt": "Tratamiento de belleza relajante" }
+  ],
+  "testimonials": [
+    { "name": "Elena Martínez", "stars": 5, "text": "El mejor salón de Dénia. Salgo siempre encantada con mis uñas y el trato es inmejorable." },
+    { "name": "Lucía Fernández", "stars": 5, "text": "Profesionales de diez. La calidad de los productos y la delicadeza en el trabajo marcan la diferencia." },
+    { "name": "Marta Giner", "stars": 4, "text": "Muy buena atención y resultados impecables. Repetiré sin duda alguna." }
+  ],
+  "contact": {
+    "title": "¡Reserva tu momento de autocuidado!",
+    "subtitle": "Estamos deseando atenderte. Contáctanos por WhatsApp para consultar disponibilidad o resolver tus dudas.",
+    "whatsappNumber": "34631 93 89 39",
+    "showMap": true,
+    "mapQuery": "Uñas Gracy Estética Pg. del Saladar, 45b, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Uñas Gracy Estética"
+  }
+}
